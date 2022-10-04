@@ -18,6 +18,9 @@ body, html{
 
 }
 
+a:link{
+  color: purple;
+}
 a:active{
   color: white; 
 }
